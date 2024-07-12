@@ -16,6 +16,6 @@ https://portifolio-alura-lilac-iota.vercel.app/
 
 ## Desenvolvido por:
 
-## João Pedro Schlindwein
+### João Pedro Schlindwein
 
-## Linkedin: https://www.linkedin.com/in/joaopedroschlindwein/
+### Linkedin: https://www.linkedin.com/in/joaopedroschlindwein/
