@@ -1,0 +1,88 @@
+<!-- Define o tipo de documento como HTML 5 -->
+<!DOCTYPE html>
+
+<!-- Idioma do conteúdo -->
+<html lang="pt-br">
+
+<!-- Metadados da página -->
+
+<head>
+
+    <!-- Codificação dos caracteres  -->
+    <meta charset="UTF-8">
+
+    <!-- Adapta proporção da tela para diferentes dispositivos-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Compatibilidade com Internet explorer e versões antigas do Edge -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Titulo da página no navegador -->
+    <title>Portfolio</title>
+
+    <!-- Conectar CSS ao HTML -->
+    <!-- <link rel = "stylesheet" href = "reset.css"> -->
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<!-- Conteúdo visível da página -->
+
+<body>
+
+    <header class="cabecalho">
+        <nav class="cabecalho__itens">
+
+            <a class="cabecalho__itens__item" href="index.html">
+                Home
+            </a>
+
+            <a class="cabecalho__itens__item" href="about.html">
+                Sobre mim
+            </a>
+            
+            <a class="cabecalho__itens__item" href="curriculum.html">
+                Currículo
+            </a>
+
+        </nav>
+    </header>
+    <main class="apresentacao">
+        <section class="apresentacao__conteudo">
+            <h1 class="apresentacao__conteudo__titulo">Eleve seu negócio digital a outro nível <strong
+                    class="apresentacao__conteudo__titulo__destaque">com um Front-end de qualidade!</strong> </h1>
+            <p class="apresentacao__conteudo__texto">Olá! Sou João Pedro, desenvolvedor Front-end com
+                especialidade em React, HTML e CSS. Ajudo pequenos negócios e designers a colocarem em prática boas
+                ideias. Vamos conversar?</p>
+
+            <!-- Tags de âncora, que funcionam como hiperlinks -->
+
+            <div class="apresentacao__botoes">
+                <h2 class="apresentacao__botoes__titulo">Acesse minhas redes</h2>
+                <a class="apresentacao__botoes__botao" href="https://github.com/JoaoPedroSchlindwein">
+                    <img class="apresentacao__botoes__botao__logo" src="./assets/Logo Github.png" alt="Logo Git Hub">
+                    Git Hub
+                </a>
+                <a class="apresentacao__botoes__botao" href="https://www.linkedin.com/in/joaopedroschlindwein/">
+                    <img class="apresentacao__botoes__botao__logo" src="./assets/Logo linkedin.png" alt="Logo Linkedin">
+                    Linkedin
+                </a>
+                <a class="apresentacao__botoes__botao" href="https://www.facebook.com/joaopedro.schlindwein/">
+                    <img class="apresentacao__botoes__botao__logo" src="./assets/Logo Twitch.png" alt="Logo Twitch">
+                    Twitch
+                </a>
+            </div>
+
+        </section>
+
+
+        <img class="foto-jp" src="./assets/imagem.jpg" alt="Fotografia de João Pedro Schlindwein" width="300px">
+
+    </main>
+    <footer class="rodape">
+        <p> © 2024 Editora JP - Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+
+
+</html>
