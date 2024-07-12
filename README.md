@@ -11,8 +11,11 @@ Este é um projeto desenvolvido ao longo da formação de HTML e CSS da Alura.
 
 * Flex-box
 
-## Feito por:
+## Publicação do site na plataforma Vercel:
+https://portifolio-alura-lilac-iota.vercel.app/
 
-### João Pedro Schlindwein
+## Desenvolvido por:
 
-### Linkedin: https://www.linkedin.com/in/joaopedroschlindwein/
+## João Pedro Schlindwein
+
+## Linkedin: https://www.linkedin.com/in/joaopedroschlindwein/
